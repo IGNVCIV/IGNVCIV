@@ -37,8 +37,8 @@ jobs:
             exit 1
           }
 
-          test -f scripts/update_readme.py || {
-            echo "::error::No se encontró scripts/update_readme.py"
+          test -f update_readme.py || {
+            echo "::error::No se encontró update_readme.py"
             exit 1
           }
 
