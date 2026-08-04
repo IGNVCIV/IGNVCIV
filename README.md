@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Loading... 🐾
+> 🇬🇧 **Curious fact:** Bob Dylan's real name is Robert Zimmerman. 🐾
 >
-> 🇪🇸 **Dato curioso:** Cargando... 🐾
+> 🇪🇸 **Dato curioso:** El verdadero nombre de Bob Dylan es Robert Zimmerman. 🐾
 >
-> 🇧🇷 **Curiosidade:** Carregando... 🐾
+> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
