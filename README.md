@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Bob Dylan's real name is Robert Zimmerman. 🐾
+> 🇬🇧 **Curious fact:** In 1980, a Las Vegas hospital suspended workers for betting on when patients would die. 🐾
 >
-> 🇪🇸 **Dato curioso:** El verdadero nombre de Bob Dylan es Robert Zimmerman. 🐾
+> 🇪🇸 **Dato curioso:** En 1980, un hospital de Las Vegas suspendió a sus trabajadores por apostar sobre cuándo morirían los pacientes. 🐾
 >
-> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
+> 🇧🇷 **Curiosidade:** Em 1980, um hospital de Las Vegas suspendeu funcionários por apostarem na data da morte dos pacientes. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
