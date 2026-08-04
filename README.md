@@ -6,7 +6,7 @@
 
 📍 **Santiago, Chile 🇨🇱**
 
-Soy Licenciada en Educación, pero decidí dar el salto al mundo de la tecnología. Actualmente estudio **Ingeniería en Informática (Mención Datos)** y me encuentro explorando distintas áreas, desde el análisis de requerimientos hasta el desarrollo. Como sigo formándome, disfruto aprender cosas nuevas cada día y descubrir qué herramientas me gustan más. Mi objetivo a futuro es ser ese puente que conecta las necesidades del negocio con soluciones tecnológicas reales y útiles.
+Soy Licenciada en Educación, pero decidí dar el salto al mundo de la tecnología. Actualmente estudio **Ingeniería en Informática (Mención Ingeniería de Datos)** y me encuentro explorando distintas áreas, desde el análisis de requerimientos hasta el desarrollo. Como sigo formándome, disfruto aprender cosas nuevas cada día y descubrir qué herramientas me gustan más. Mi objetivo a futuro es ser ese puente que conecta las necesidades del negocio con soluciones tecnológicas reales y útiles.
 
 Tengo un lado muy visual: creo firmemente que los proyectos no solo tienen que funcionar bien por detrás, sino que también deben verse impecables. Me gusta mucho cuidar la estética y el diseño en todo lo que hago✨
 
