@@ -1,8 +1,7 @@
 # "Hello there!" 🌌 Soy Javiera Aguilar ✨
 
-<div align="center">
-  <i>Estudiante de Ingeniería en Informática (Datos) & Licenciada en Educación</i>
-</div>
+<h3 align="center"><i>Estudiante de Ingeniería en Informática (Datos) & Licenciada en Educación</i></h3>
+
 ---
 
 Soy una apasionada por conectar las **necesidades del negocio con soluciones tecnológicas**. Cuento con una base en desarrollo de software, análisis de datos y metodologías ágiles, complementada con el pensamiento estructurado y la comunicación efectiva de mi background en educación. 
@@ -17,9 +16,6 @@ Actualmente me preparo para roles como **Business Analyst Trainee**, **Data Anal
 ---
 
 ## 🎨 Mi Stack Tecnológico
-
-Para mantener un perfil limpio, he agrupado las herramientas con las que trabajo. 
-*(Paleta de colores coordinada para una lectura visual más armoniosa)*
 
 ### Desarrollo & Backend
 ![Python](https://img.shields.io/badge/Python-9A8C98?style=for-the-badge&logo=python&logoColor=white)
@@ -48,8 +44,8 @@ Para mantener un perfil limpio, he agrupado las herramientas con las que trabajo
 ## 📊 Actividad en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IGNVCIV&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGNVCIV&layout=compact&theme=catppuccin_mocha&hide=html,css&hide_border=true&bg_color=00000000"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IGNVCIV&show_icons=true&theme=catppuccin_mocha&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGNVCIV&layout=compact&theme=catppuccin_mocha&hide=html,css" alt="Top Languages" />
 </div>
 
 ---
@@ -57,5 +53,5 @@ Para mantener un perfil limpio, he agrupado las herramientas con las que trabajo
 ## 📬 Conectemos
 
 - 📧 **Correo:** [ja.aguilara@duocuc.cl](mailto:ja.aguilara@duocuc.cl)
-- 💼 **LinkedIn:** [Tu Perfil de LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/javiera-ignacia-aguilar-alvarado-879944287))
+- 💼 **LinkedIn:** [Javiera Aguilar](https://www.linkedin.com/in/javiera-ignacia-aguilar-alvarado-879944287)
 - 📍 **Ubicación:** Santiago, Chile
