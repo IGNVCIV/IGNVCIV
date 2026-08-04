@@ -1,16 +1,18 @@
-# "Hello there!" 🌌 Soy Javiera Aguilar ✨
+# "Hello there!" 🌌 Soy Javiera ✨
 
-<h3 align="center"><i>Estudiante de Ingeniería en Informática (Datos) & Licenciada en Educación</i></h3>
+<h3 align="center"><i>De las aulas al mundo del código 🚀 | Estudiante de Informática & Tech Enthusiast</i></h3>
 
 ---
 
-Soy una apasionada por conectar las **necesidades del negocio con soluciones tecnológicas**. Cuento con una base en desarrollo de software, análisis de datos y metodologías ágiles, complementada con el pensamiento estructurado y la comunicación efectiva de mi background en educación. 
+📍 **Santiago, Chile 🇨🇱**
 
-Actualmente me preparo para roles como **Business Analyst Trainee**, **Data Analyst** o posiciones donde la tecnología se encuentre con la estrategia de negocio.
+Soy Licenciada en Educación, pero decidí dar el salto al mundo de la tecnología. Actualmente estudio **Ingeniería en Informática (Mención Datos)** y me encuentro explorando distintas áreas, desde el análisis de requerimientos hasta el desarrollo. Como sigo formándome, disfruto aprender cosas nuevas cada día y descubrir qué herramientas me gustan más. Mi objetivo a futuro es ser ese puente que conecta las necesidades del negocio con soluciones tecnológicas reales y útiles.
+
+Tengo un lado muy visual: creo firmemente que los proyectos no solo tienen que funcionar bien por detrás, sino que también deben verse impecables. Me gusta mucho cuidar la estética y el diseño en todo lo que hago✨
 
 ### 🌍 Idiomas
 - 🇪🇸 **Español:** Nativo
-- 🇺🇸 **Inglés:** Intermedio
+- 🇺🇸 **Inglés:** Intermedio 
 - 🇧🇷 **Portugués:** Básico
 
 ---
@@ -41,17 +43,7 @@ Actualmente me preparo para roles como **Business Analyst Trainee**, **Data Anal
 
 ---
 
-## 📊 Actividad en GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IGNVCIV&show_icons=true&theme=catppuccin_mocha&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGNVCIV&layout=compact&theme=catppuccin_mocha&hide=html,css" alt="Top Languages" />
-</div>
-
----
-
 ## 📬 Conectemos
 
 - 📧 **Correo:** [ja.aguilara@duocuc.cl](mailto:ja.aguilara@duocuc.cl)
 - 💼 **LinkedIn:** [Javiera Aguilar](https://www.linkedin.com/in/javiera-ignacia-aguilar-alvarado-879944287)
-- 📍 **Ubicación:** Santiago, Chile
