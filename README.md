@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** In 1980, a Las Vegas hospital suspended workers for betting on when patients would die. 🐾
+> 🇬🇧 **Curious fact:** Venus and Uranus are the only planets that rotate opposite to the direction of their orbit. 🐾
 >
-> 🇪🇸 **Dato curioso:** En 1980, un hospital de Las Vegas suspendió a sus trabajadores por apostar sobre cuándo morirían los pacientes. 🐾
+> 🇪🇸 **Dato curioso:** Venus y Urano son los únicos planetas que giran en dirección opuesta a la de su órbita. 🐾
 >
-> 🇧🇷 **Curiosidade:** Em 1980, um hospital de Las Vegas suspendeu funcionários por apostarem na data da morte dos pacientes. 🐾
+> 🇧🇷 **Curiosidade:** Vênus e Urano são os únicos planetas que giram em sentido oposto à sua órbita. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
