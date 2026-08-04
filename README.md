@@ -12,7 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-Cargando... 🐾
+> 🇬🇧 **Curious fact:** Loading... 🐾
+>
+> 🇪🇸 **Dato curioso:** Cargando... 🐾
+>
+> 🇧🇷 **Curiosidade:** Carregando... 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
