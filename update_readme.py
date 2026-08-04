@@ -1,5 +1,6 @@
 import os
 import re
+import time
 from pathlib import Path
 
 import requests
@@ -106,24 +107,49 @@ def obtener_dato_curioso() -> str:
 
 
 def traducir_dato(texto: str, idioma: str) -> str:
-    """Traduce el dato sin utilizar una clave de DeepL."""
+    """Traduce el dato, reintentando cuando ocurre un fallo temporal."""
 
     if idioma == "en":
         return texto
 
-    traduccion = GoogleTranslator(
-        source="en",
-        target=idioma,
-    ).translate(texto)
+    destinos = {
+        "es": "spanish",
+        "pt": "portuguese",
+    }
 
-    traduccion = " ".join(traduccion.split())
+    ultimo_error = None
 
-    if not traduccion:
-        raise ValueError(
-            f"La traducción al idioma '{idioma}' está vacía."
-        )
+    for intento in range(3):
+        try:
+            traduccion = GoogleTranslator(
+                source="english",
+                target=destinos[idioma],
+            ).translate(texto)
 
-    return traduccion
+            traduccion = " ".join(traduccion.split())
+
+            if not traduccion:
+                raise ValueError("La traducción está vacía.")
+
+            return traduccion
+
+        except Exception as error:
+            ultimo_error = error
+
+            espera = 2 ** intento
+
+            print(
+                f"Intento {intento + 1}/3 fallido para "
+                f"'{idioma}': {error}. "
+                f"Reintentando en {espera} segundos..."
+            )
+
+            time.sleep(espera)
+
+    raise RuntimeError(
+        f"No se pudo traducir a '{idioma}' "
+        f"después de 3 intentos: {ultimo_error}"
+    )
 
 
 def preparar_traducciones(
