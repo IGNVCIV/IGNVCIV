@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Venus and Uranus are the only planets that rotate opposite to the direction of their orbit. 🐾
+> 🇬🇧 **Curious fact:** Half of all Americans live within 50 miles of their birthplace. 🐾
 >
-> 🇪🇸 **Dato curioso:** Venus y Urano son los únicos planetas que giran en dirección opuesta a la de su órbita. 🐾
+> 🇪🇸 **Dato curioso:** La mitad de los estadounidenses viven dentro de un radio de 50 millas de su lugar de nacimiento. 🐾
 >
-> 🇧🇷 **Curiosidade:** Vênus e Urano são os únicos planetas que giram em sentido oposto à sua órbita. 🐾
+> 🇧🇷 **Curiosidade:** Metade de todos os americanos vive num raio de 80 quilómetros do seu local de nascimento. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
