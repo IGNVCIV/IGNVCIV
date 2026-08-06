@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Half of all Americans live within 50 miles of their birthplace. 🐾
+> 🇬🇧 **Curious fact:** Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca 🐾
 >
-> 🇪🇸 **Dato curioso:** La mitad de los estadounidenses viven dentro de un radio de 50 millas de su lugar de nacimiento. 🐾
+> 🇪🇸 **Dato curioso:** Humphrey Bogart NUNCA dijo “Tócala de nuevo, Sam” en Casablanca 🐾
 >
-> 🇧🇷 **Curiosidade:** Metade de todos os americanos vive num raio de 80 quilómetros do seu local de nascimento. 🐾
+> 🇧🇷 **Curiosidade:** Humphrey Bogart NUNCA disse “Toque de novo, Sam” em Casablanca 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
