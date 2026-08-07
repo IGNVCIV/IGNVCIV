@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca 🐾
+> 🇬🇧 **Curious fact:** Nutmeg is extremely poisonous if injected intravenously. 🐾
 >
-> 🇪🇸 **Dato curioso:** Humphrey Bogart NUNCA dijo “Tócala de nuevo, Sam” en Casablanca 🐾
+> 🇪🇸 **Dato curioso:** La nuez moscada es extremadamente venenosa si se inyecta por vía intravenosa. 🐾
 >
-> 🇧🇷 **Curiosidade:** Humphrey Bogart NUNCA disse “Toque de novo, Sam” em Casablanca 🐾
+> 🇧🇷 **Curiosidade:** A noz-moscada é extremamente venenosa se injetada por via intravenosa. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
