@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Nutmeg is extremely poisonous if injected intravenously. 🐾
+> 🇬🇧 **Curious fact:** There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum). 🐾
 >
-> 🇪🇸 **Dato curioso:** La nuez moscada es extremadamente venenosa si se inyecta por vía intravenosa. 🐾
+> 🇪🇸 **Dato curioso:** Hay 10 partes del cuerpo humano que tienen solo 3 letras de largo (ojo, cadera, brazo, pierna, oreja, dedo del pie, mandíbula, costilla, labio, encía). 🐾
 >
-> 🇧🇷 **Curiosidade:** A noz-moscada é extremamente venenosa se injetada por via intravenosa. 🐾
+> 🇧🇷 **Curiosidade:** Existem 10 partes do corpo humano com apenas 3 letras (olho, quadril, braço, perna, orelha, dedo do pé, mandíbula, costela, lábio, gengiva). 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
