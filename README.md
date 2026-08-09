@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum). 🐾
+> 🇬🇧 **Curious fact:** Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage. 🐾
 >
-> 🇪🇸 **Dato curioso:** Hay 10 partes del cuerpo humano que tienen solo 3 letras de largo (ojo, cadera, brazo, pierna, oreja, dedo del pie, mandíbula, costilla, labio, encía). 🐾
+> 🇪🇸 **Dato curioso:** Jim Morrison, del grupo de rock de los años 60 The Doors, fue la primera estrella de rock arrestada en el escenario. 🐾
 >
-> 🇧🇷 **Curiosidade:** Existem 10 partes do corpo humano com apenas 3 letras (olho, quadril, braço, perna, orelha, dedo do pé, mandíbula, costela, lábio, gengiva). 🐾
+> 🇧🇷 **Curiosidade:** Jim Morrison, do grupo de rock dos anos 60 The Doors, foi o primeiro astro do rock a ser preso no palco. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
