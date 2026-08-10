@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage. 🐾
+> 🇬🇧 **Curious fact:** 70% of all boats sold are used for fishing. 🐾
 >
-> 🇪🇸 **Dato curioso:** Jim Morrison, del grupo de rock de los años 60 The Doors, fue la primera estrella de rock arrestada en el escenario. 🐾
+> 🇪🇸 **Dato curioso:** El 70% de todos los barcos vendidos se utilizan para pescar. 🐾
 >
-> 🇧🇷 **Curiosidade:** Jim Morrison, do grupo de rock dos anos 60 The Doors, foi o primeiro astro do rock a ser preso no palco. 🐾
+> 🇧🇷 **Curiosidade:** 70% de todos os barcos vendidos são utilizados para pesca. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
