@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** 70% of all boats sold are used for fishing. 🐾
+> 🇬🇧 **Curious fact:** The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida. 🐾
 >
-> 🇪🇸 **Dato curioso:** El 70% de todos los barcos vendidos se utilizan para pescar. 🐾
+> 🇪🇸 **Dato curioso:** La ciudad estadounidense con la mayor tasa de rayos per cápita es Clearwater, Florida. 🐾
 >
-> 🇧🇷 **Curiosidade:** 70% de todos os barcos vendidos são utilizados para pesca. 🐾
+> 🇧🇷 **Curiosidade:** A cidade dos EUA com a maior taxa de raios per capita é Clearwater, Flórida. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
