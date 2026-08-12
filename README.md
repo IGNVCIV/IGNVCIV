@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida. 🐾
+> 🇬🇧 **Curious fact:** The longest recorded flight of a chicken is thirteen seconds. 🐾
 >
-> 🇪🇸 **Dato curioso:** La ciudad estadounidense con la mayor tasa de rayos per cápita es Clearwater, Florida. 🐾
+> 🇪🇸 **Dato curioso:** El vuelo más largo registrado de un pollo es de trece segundos. 🐾
 >
-> 🇧🇷 **Curiosidade:** A cidade dos EUA com a maior taxa de raios per capita é Clearwater, Flórida. 🐾
+> 🇧🇷 **Curiosidade:** O vôo mais longo registrado de uma galinha foi de treze segundos. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
