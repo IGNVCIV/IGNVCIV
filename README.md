@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The longest recorded flight of a chicken is thirteen seconds. 🐾
+> 🇬🇧 **Curious fact:** Baby robins eat 14 feet of earthworms every day 🐾
 >
-> 🇪🇸 **Dato curioso:** El vuelo más largo registrado de un pollo es de trece segundos. 🐾
+> 🇪🇸 **Dato curioso:** Los petirrojos bebés comen 14 pies de lombrices cada día 🐾
 >
-> 🇧🇷 **Curiosidade:** O vôo mais longo registrado de uma galinha foi de treze segundos. 🐾
+> 🇧🇷 **Curiosidade:** Bebês tordos comem 4,2 metros de minhocas todos os dias 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
