@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Baby robins eat 14 feet of earthworms every day 🐾
+> 🇬🇧 **Curious fact:** The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead." 🐾
 >
-> 🇪🇸 **Dato curioso:** Los petirrojos bebés comen 14 pies de lombrices cada día 🐾
+> 🇪🇸 **Dato curioso:** La palabra "jaque mate" en ajedrez proviene de la frase persa "Shah Mat", que significa "el rey está muerto". 🐾
 >
-> 🇧🇷 **Curiosidade:** Bebês tordos comem 4,2 metros de minhocas todos os dias 🐾
+> 🇧🇷 **Curiosidade:** A palavra “Xeque-mate” no xadrez vem da frase persa “Shah Mat”, que significa “o rei está morto”. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
