@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead." 🐾
+> 🇬🇧 **Curious fact:** It takes about 142.18 licks to reach the center of a Tootsie pop. 🐾
 >
-> 🇪🇸 **Dato curioso:** La palabra "jaque mate" en ajedrez proviene de la frase persa "Shah Mat", que significa "el rey está muerto". 🐾
+> 🇪🇸 **Dato curioso:** Se necesitan alrededor de 142,18 lamidos para llegar al centro de un pop de Tootsie. 🐾
 >
-> 🇧🇷 **Curiosidade:** A palavra “Xeque-mate” no xadrez vem da frase persa “Shah Mat”, que significa “o rei está morto”. 🐾
+> 🇧🇷 **Curiosidade:** São necessárias cerca de 142,18 licks para chegar ao centro de um Tootsie pop. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
