@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** It takes about 142.18 licks to reach the center of a Tootsie pop. 🐾
+> 🇬🇧 **Curious fact:** The electric chair was invented by a dentist. 🐾
 >
-> 🇪🇸 **Dato curioso:** Se necesitan alrededor de 142,18 lamidos para llegar al centro de un pop de Tootsie. 🐾
+> 🇪🇸 **Dato curioso:** La silla eléctrica fue inventada por un dentista. 🐾
 >
-> 🇧🇷 **Curiosidade:** São necessárias cerca de 142,18 licks para chegar ao centro de um Tootsie pop. 🐾
+> 🇧🇷 **Curiosidade:** A cadeira elétrica foi inventada por um dentista. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
