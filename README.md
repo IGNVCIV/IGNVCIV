@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The electric chair was invented by a dentist. 🐾
+> 🇬🇧 **Curious fact:** The king of hearts is the only king without a mustache. 🐾
 >
-> 🇪🇸 **Dato curioso:** La silla eléctrica fue inventada por un dentista. 🐾
+> 🇪🇸 **Dato curioso:** El rey de corazones es el único rey sin bigote. 🐾
 >
-> 🇧🇷 **Curiosidade:** A cadeira elétrica foi inventada por um dentista. 🐾
+> 🇧🇷 **Curiosidade:** O rei de copas é o único rei sem bigode. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
