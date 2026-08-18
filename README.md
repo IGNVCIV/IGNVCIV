@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The king of hearts is the only king without a mustache. 🐾
+> 🇬🇧 **Curious fact:** California has issued 6 drivers licenses to people named "Jesus Christ." 🐾
 >
-> 🇪🇸 **Dato curioso:** El rey de corazones es el único rey sin bigote. 🐾
+> 🇪🇸 **Dato curioso:** California ha emitido 6 licencias de conducir a personas llamadas "Jesucristo". 🐾
 >
-> 🇧🇷 **Curiosidade:** O rei de copas é o único rei sem bigode. 🐾
+> 🇧🇷 **Curiosidade:** A Califórnia emitiu 6 carteiras de motorista para pessoas chamadas “Jesus Cristo”. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
