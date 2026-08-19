@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** California has issued 6 drivers licenses to people named "Jesus Christ." 🐾
+> 🇬🇧 **Curious fact:** The U.S. military operates 234 golf courses 🐾
 >
-> 🇪🇸 **Dato curioso:** California ha emitido 6 licencias de conducir a personas llamadas "Jesucristo". 🐾
+> 🇪🇸 **Dato curioso:** El ejército estadounidense opera 234 campos de golf. 🐾
 >
-> 🇧🇷 **Curiosidade:** A Califórnia emitiu 6 carteiras de motorista para pessoas chamadas “Jesus Cristo”. 🐾
+> 🇧🇷 **Curiosidade:** Os militares dos EUA operam 234 campos de golfe 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
