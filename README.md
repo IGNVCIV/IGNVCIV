@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The U.S. military operates 234 golf courses 🐾
+> 🇬🇧 **Curious fact:** 166,875,000,000 pieces of mail are delivered each year in the US 🐾
 >
-> 🇪🇸 **Dato curioso:** El ejército estadounidense opera 234 campos de golf. 🐾
+> 🇪🇸 **Dato curioso:** Cada año se entregan 166.875.000.000 piezas de correo en EE.UU. 🐾
 >
-> 🇧🇷 **Curiosidade:** Os militares dos EUA operam 234 campos de golfe 🐾
+> 🇧🇷 **Curiosidade:** 166.875.000.000 correspondências são entregues todos os anos nos EUA 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
