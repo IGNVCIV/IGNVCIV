@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** 166,875,000,000 pieces of mail are delivered each year in the US 🐾
+> 🇬🇧 **Curious fact:** Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain. 🐾
 >
-> 🇪🇸 **Dato curioso:** Cada año se entregan 166.875.000.000 piezas de correo en EE.UU. 🐾
+> 🇪🇸 **Dato curioso:** Nevada es el estado más seco de EE. UU. Cada año tiene un promedio de 19 cm (7,5 pulgadas) de lluvia. 🐾
 >
-> 🇧🇷 **Curiosidade:** 166.875.000.000 correspondências são entregues todos os anos nos EUA 🐾
+> 🇧🇷 **Curiosidade:** Nevada é o estado mais seco dos EUA. A cada ano chove em média 7,5 polegadas (19 cm). 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
