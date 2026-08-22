@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Nevada is the driest state in the U.S.. Each year it averages 7.5 inches (19 cm) of rain. 🐾
+> 🇬🇧 **Curious fact:** Gary, Indiana is the murder capital of the U.S. - probably the world. 🐾
 >
-> 🇪🇸 **Dato curioso:** Nevada es el estado más seco de EE. UU. Cada año tiene un promedio de 19 cm (7,5 pulgadas) de lluvia. 🐾
+> 🇪🇸 **Dato curioso:** Gary, Indiana, es la capital del asesinato de Estados Unidos, probablemente del mundo. 🐾
 >
-> 🇧🇷 **Curiosidade:** Nevada é o estado mais seco dos EUA. A cada ano chove em média 7,5 polegadas (19 cm). 🐾
+> 🇧🇷 **Curiosidade:** Gary, Indiana, é a capital do assassinato dos EUA - provavelmente do mundo. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
