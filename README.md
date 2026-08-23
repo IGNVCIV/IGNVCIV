@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Gary, Indiana is the murder capital of the U.S. - probably the world. 🐾
+> 🇬🇧 **Curious fact:** In most advertisements, including newspapers, the time displayed on a watch is 10:10. 🐾
 >
-> 🇪🇸 **Dato curioso:** Gary, Indiana, es la capital del asesinato de Estados Unidos, probablemente del mundo. 🐾
+> 🇪🇸 **Dato curioso:** En la mayoría de los anuncios, incluidos los periódicos, la hora que aparece en un reloj son las 10:10. 🐾
 >
-> 🇧🇷 **Curiosidade:** Gary, Indiana, é a capital do assassinato dos EUA - provavelmente do mundo. 🐾
+> 🇧🇷 **Curiosidade:** Na maioria dos anúncios, incluindo jornais, a hora exibida no relógio é 10h10. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
