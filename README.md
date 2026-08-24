@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** In most advertisements, including newspapers, the time displayed on a watch is 10:10. 🐾
+> 🇬🇧 **Curious fact:** The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish. 🐾
 >
-> 🇪🇸 **Dato curioso:** En la mayoría de los anuncios, incluidos los periódicos, la hora que aparece en un reloj son las 10:10. 🐾
+> 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** Na maioria dos anúncios, incluindo jornais, a hora exibida no relógio é 10h10. 🐾
+> 🇧🇷 **Curiosidade:** As seis línguas oficiais da ONU são: inglês, francês, árabe, chinês, russo e espanhol. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
