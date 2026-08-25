@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish. 🐾
+> 🇬🇧 **Curious fact:** There are about 450 types of cheese in the world. 240 come from France. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** As seis línguas oficiais da ONU são: inglês, francês, árabe, chinês, russo e espanhol. 🐾
+> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
