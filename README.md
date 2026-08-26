@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** There are about 450 types of cheese in the world. 240 come from France. 🐾
+> 🇬🇧 **Curious fact:** The buzz from an electric razor in America plays in the key of B flat; Key of G in England. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
