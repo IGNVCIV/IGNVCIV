@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The buzz from an electric razor in America plays in the key of B flat; Key of G in England. 🐾
+> 🇬🇧 **Curious fact:** Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason. 🐾
 >
-> 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
+> 🇪🇸 **Dato curioso:** Los emús y los canguros no pueden caminar hacia atrás y por ese motivo están en el escudo de armas de Australia. 🐾
 >
-> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
+> 🇧🇷 **Curiosidade:** Emas e cangurus não podem andar para trás e por esse motivo estão no brasão australiano. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
