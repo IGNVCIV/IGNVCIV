@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason. 🐾
+> 🇬🇧 **Curious fact:** Georgia's state motto is "Wisdom, Justice and Moderation." 🐾
 >
-> 🇪🇸 **Dato curioso:** Los emús y los canguros no pueden caminar hacia atrás y por ese motivo están en el escudo de armas de Australia. 🐾
+> 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** Emas e cangurus não podem andar para trás e por esse motivo estão no brasão australiano. 🐾
+> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
