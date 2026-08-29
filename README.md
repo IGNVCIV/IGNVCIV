@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Georgia's state motto is "Wisdom, Justice and Moderation." 🐾
+> 🇬🇧 **Curious fact:** 3.6 cans of Spam are consumed each second. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
+> 🇧🇷 **Curiosidade:** 3,6 latas de Spam são consumidas a cada segundo. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
