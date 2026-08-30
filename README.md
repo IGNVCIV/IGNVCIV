@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** 3.6 cans of Spam are consumed each second. 🐾
+> 🇬🇧 **Curious fact:** You can lead a cow upstairs but not downstairs. 🐾
 >
-> 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
+> 🇪🇸 **Dato curioso:** Puedes llevar una vaca arriba pero no abajo. 🐾
 >
-> 🇧🇷 **Curiosidade:** 3,6 latas de Spam são consumidas a cada segundo. 🐾
+> 🇧🇷 **Curiosidade:** Você pode levar uma vaca para cima, mas não para baixo. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
