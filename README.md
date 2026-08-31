@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** You can lead a cow upstairs but not downstairs. 🐾
+> 🇬🇧 **Curious fact:** The symbol on the "pound" key (#) is called an octothorpe.. 🐾
 >
-> 🇪🇸 **Dato curioso:** Puedes llevar una vaca arriba pero no abajo. 🐾
+> 🇪🇸 **Dato curioso:** El símbolo de la tecla "almohadilla" (#) se llama octothorpe. 🐾
 >
-> 🇧🇷 **Curiosidade:** Você pode levar uma vaca para cima, mas não para baixo. 🐾
+> 🇧🇷 **Curiosidade:** O símbolo na tecla "liquida" (#) é chamado de octothorpe. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
