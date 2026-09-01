@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The symbol on the "pound" key (#) is called an octothorpe.. 🐾
+> 🇬🇧 **Curious fact:** The number "four" is considered unlucky in Japan because it is pronounced the same as "death". 🐾
 >
-> 🇪🇸 **Dato curioso:** El símbolo de la tecla "almohadilla" (#) se llama octothorpe. 🐾
+> 🇪🇸 **Dato curioso:** El número "cuatro" se considera de mala suerte en Japón porque se pronuncia igual que "muerte". 🐾
 >
-> 🇧🇷 **Curiosidade:** O símbolo na tecla "liquida" (#) é chamado de octothorpe. 🐾
+> 🇧🇷 **Curiosidade:** O número “quatro” é considerado de azar no Japão porque é pronunciado como “morte”. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
