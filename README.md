@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The number "four" is considered unlucky in Japan because it is pronounced the same as "death". 🐾
+> 🇬🇧 **Curious fact:** One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition. 🐾
 >
-> 🇪🇸 **Dato curioso:** El número "cuatro" se considera de mala suerte en Japón porque se pronuncia igual que "muerte". 🐾
+> 🇪🇸 **Dato curioso:** Una de las razones por las que la marihuana es ilegal hoy en día es porque los productores de algodón en la década de 1930 presionaron contra los agricultores de cáñamo porque lo veían como una competencia. 🐾
 >
-> 🇧🇷 **Curiosidade:** O número “quatro” é considerado de azar no Japão porque é pronunciado como “morte”. 🐾
+> 🇧🇷 **Curiosidade:** Uma das razões pelas quais a maconha é ilegal hoje é porque os produtores de algodão na década de 1930 fizeram lobby contra os produtores de cânhamo e consideraram isso uma competição. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
