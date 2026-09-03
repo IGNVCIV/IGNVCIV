@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition. 🐾
+> 🇬🇧 **Curious fact:** A new curious fact will appear here soon. 🐾
 >
-> 🇪🇸 **Dato curioso:** Una de las razones por las que la marihuana es ilegal hoy en día es porque los productores de algodón en la década de 1930 presionaron contra los agricultores de cáñamo porque lo veían como una competencia. 🐾
+> 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** Uma das razões pelas quais a maconha é ilegal hoje é porque os produtores de algodão na década de 1930 fizeram lobby contra os produtores de cânhamo e consideraram isso uma competição. 🐾
+> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
