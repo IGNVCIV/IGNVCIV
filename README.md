@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles. 🐾
+> 🇬🇧 **Curious fact:** The average chocolate bar has 8 insects’ legs melted into it. 🐾
 >
-> 🇪🇸 **Dato curioso:** El refresco de cítricos 7-UP fue creado en 1929; Se seleccionó "7" después de los contenedores originales de 7 onzas y "ARRIBA" para la dirección de las burbujas. 🐾
+> 🇪🇸 **Dato curioso:** Una barra de chocolate promedio tiene 8 patas de insectos derretidas. 🐾
 >
-> 🇧🇷 **Curiosidade:** O refrigerante cítrico 7-UP foi criado em 1929; `7` foi selecionado após os recipientes originais de 7 onças e `UP` para a direção das bolhas. 🐾
+> 🇧🇷 **Curiosidade:** Uma barra de chocolate média tem 8 patas de insetos derretidas. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
