@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The average chocolate bar has 8 insects’ legs melted into it. 🐾
+> 🇬🇧 **Curious fact:** 101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie. 🐾
 >
-> 🇪🇸 **Dato curioso:** Una barra de chocolate promedio tiene 8 patas de insectos derretidas. 🐾
+> 🇪🇸 **Dato curioso:** 101 Dálmatas, Peter Pan, La dama y el vagabundo y Mulan son los únicos dibujos animados de Disney donde ambos padres están presentes y no mueren durante toda la película. 🐾
 >
-> 🇧🇷 **Curiosidade:** Uma barra de chocolate média tem 8 patas de insetos derretidas. 🐾
+> 🇧🇷 **Curiosidade:** 101 Dálmatas, Peter Pan, A Dama e o Vagabundo e Mulan são os únicos desenhos da Disney em que ambos os pais estão presentes e não morrem durante o filme. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
