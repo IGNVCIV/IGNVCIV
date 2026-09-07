@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** 101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie. 🐾
+> 🇬🇧 **Curious fact:** Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903. 🐾
 >
-> 🇪🇸 **Dato curioso:** 101 Dálmatas, Peter Pan, La dama y el vagabundo y Mulan son los únicos dibujos animados de Disney donde ambos padres están presentes y no mueren durante toda la película. 🐾
+> 🇪🇸 **Dato curioso:** Coca-Cola contuvo Coca (cuyo ingrediente activo es la cocaína) desde 1885 hasta 1903. 🐾
 >
-> 🇧🇷 **Curiosidade:** 101 Dálmatas, Peter Pan, A Dama e o Vagabundo e Mulan são os únicos desenhos da Disney em que ambos os pais estão presentes e não morrem durante o filme. 🐾
+> 🇧🇷 **Curiosidade:** A Coca-Cola continha Coca (cujo ingrediente ativo é a cocaína) de 1885 a 1903. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
