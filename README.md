@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903. 🐾
+> 🇬🇧 **Curious fact:** PEZ candy even comes in a Coffee flavor. 🐾
 >
-> 🇪🇸 **Dato curioso:** Coca-Cola contuvo Coca (cuyo ingrediente activo es la cocaína) desde 1885 hasta 1903. 🐾
+> 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** A Coca-Cola continha Coca (cujo ingrediente ativo é a cocaína) de 1885 a 1903. 🐾
+> 🇧🇷 **Curiosidade:** O doce PEZ ainda vem no sabor Café. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
