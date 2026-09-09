@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** PEZ candy even comes in a Coffee flavor. 🐾
+> 🇬🇧 **Curious fact:** In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** O doce PEZ ainda vem no sabor Café. 🐾
+> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
