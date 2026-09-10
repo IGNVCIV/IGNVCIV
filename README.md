@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing. 🐾
+> 🇬🇧 **Curious fact:** Greece's national anthem has 158 verses. 🐾
 >
-> 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
+> 🇪🇸 **Dato curioso:** El himno nacional de Grecia tiene 158 versos. 🐾
 >
-> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
+> 🇧🇷 **Curiosidade:** O hino nacional da Grécia tem 158 versos. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
