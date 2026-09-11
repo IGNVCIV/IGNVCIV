@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Greece's national anthem has 158 verses. 🐾
+> 🇬🇧 **Curious fact:** Some lions mate over 50 times a day. 🐾
 >
-> 🇪🇸 **Dato curioso:** El himno nacional de Grecia tiene 158 versos. 🐾
+> 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** O hino nacional da Grécia tem 158 versos. 🐾
+> 🇧🇷 **Curiosidade:** Alguns leões acasalam mais de 50 vezes por dia. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
