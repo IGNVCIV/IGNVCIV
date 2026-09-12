@@ -12,11 +12,11 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Some lions mate over 50 times a day. 🐾
+> 🇬🇧 **Curious fact:** 15 million blood cells are destroyed in the human body every second. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
-> 🇧🇷 **Curiosidade:** Alguns leões acasalam mais de 50 vezes por dia. 🐾
+> 🇧🇷 **Curiosidade:** Em breve aparecerá uma nova curiosidade. 🐾
 <!-- END_SECTION:fact -->
 
 ### 🌍 Idiomas
