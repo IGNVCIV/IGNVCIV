@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Only one person in two billion will live to be 116 or older. 🐾
+> 🇬🇧 **Curious fact:** The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead." 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
