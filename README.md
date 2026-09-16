@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead." 🐾
+> 🇬🇧 **Curious fact:** The sound of E.T. walking was made by someone squishing her hands in jelly. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
