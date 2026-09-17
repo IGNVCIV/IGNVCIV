@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The sound of E.T. walking was made by someone squishing her hands in jelly. 🐾
+> 🇬🇧 **Curious fact:** Honking of car horns for a couple that just got married is an old superstition to insure great sex. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
