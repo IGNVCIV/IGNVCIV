@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** “Duff” is the decaying organic matter found on a forest floor. 🐾
+> 🇬🇧 **Curious fact:** Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
