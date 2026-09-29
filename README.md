@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Charlie Chaplin once won third prize in a Charlie Chaplin look-alike contest. 🐾
+> 🇬🇧 **Curious fact:** A duck's quack doesn't echo, and no one knows why. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
