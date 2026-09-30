@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** A duck's quack doesn't echo, and no one knows why. 🐾
+> 🇬🇧 **Curious fact:** Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
