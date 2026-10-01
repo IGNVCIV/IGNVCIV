@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen. 🐾
+> 🇬🇧 **Curious fact:** Negative emotions such as anxiety and depression can weaken your immune system. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
