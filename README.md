@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** In England, the Speaker of the House is not allowed to speak. 🐾
+> 🇬🇧 **Curious fact:** If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
