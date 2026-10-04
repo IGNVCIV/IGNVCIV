@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple. 🐾
+> 🇬🇧 **Curious fact:** The very first song played on MTV was `Video Killed The Radio Star` by the Buggles. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
