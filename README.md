@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break. 🐾
+> 🇬🇧 **Curious fact:** Coca-Cola would be green if coloring weren’t added to it. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
