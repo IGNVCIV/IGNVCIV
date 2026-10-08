@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Coca-Cola would be green if coloring weren’t added to it. 🐾
+> 🇬🇧 **Curious fact:** Gary, Indiana is the murder capital of the U.S. - probably the world. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
