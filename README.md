@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The word "set" has more definitions than any other word in the English language. 🐾
+> 🇬🇧 **Curious fact:** Residents of Houston, Texas lead the U.S. in eating out - approximately 4.6 times per week. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
