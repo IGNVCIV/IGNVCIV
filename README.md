@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Residents of Houston, Texas lead the U.S. in eating out - approximately 4.6 times per week. 🐾
+> 🇬🇧 **Curious fact:** Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
