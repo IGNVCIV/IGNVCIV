@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand. 🐾
+> 🇬🇧 **Curious fact:** The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
