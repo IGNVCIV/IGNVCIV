@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** On average, 100 people choke to death on ballpoint pens every year. 🐾
+> 🇬🇧 **Curious fact:** It is impossible to lick your elbow. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
