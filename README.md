@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar. 🐾
+> 🇬🇧 **Curious fact:** Virginia Woolf wrote all her books standing. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
