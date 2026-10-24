@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Dreamt is the only English word that ends in the letters “MT”. 🐾
+> 🇬🇧 **Curious fact:** Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
