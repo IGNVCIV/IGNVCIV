@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`. 🐾
+> 🇬🇧 **Curious fact:** Every day, 7% of the US eats at McDonald’s. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
