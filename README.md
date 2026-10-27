@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The male seahorse carries the eggs until they hatch instead of the female. 🐾
+> 🇬🇧 **Curious fact:** You were born with 300 bones, but by the time you are an adult you will only have 206. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
