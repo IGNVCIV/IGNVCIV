@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Columbia University is the second largest landowner in New York City, after the Catholic Church. 🐾
+> 🇬🇧 **Curious fact:** Peter Falk, who played "Columbo," has a glass eye. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
