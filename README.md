@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.) 🐾
+> 🇬🇧 **Curious fact:** A man named Charles Osborne had the hiccups for 69 years! 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
