@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** A man named Charles Osborne had the hiccups for 69 years! 🐾
+> 🇬🇧 **Curious fact:** Two-thirds of the world’s eggplant is grown in New Jersey. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
