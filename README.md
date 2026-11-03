@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Two-thirds of the world’s eggplant is grown in New Jersey. 🐾
+> 🇬🇧 **Curious fact:** Months that begin on a Sunday will always have a `Friday the 13th`. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
