@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Months that begin on a Sunday will always have a `Friday the 13th`. 🐾
+> 🇬🇧 **Curious fact:** The average chocolate bar has 8 insects’ legs melted into it. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
