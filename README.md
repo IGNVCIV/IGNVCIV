@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Cats have over one hundred vocal sounds, while dogs only have about ten. 🐾
+> 🇬🇧 **Curious fact:** The symbol on the "pound" key (#) is called an octothorpe.. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
