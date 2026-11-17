@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters. 🐾
+> 🇬🇧 **Curious fact:** The average human eats 8 spiders in their lifetime at night. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
