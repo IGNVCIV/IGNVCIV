@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** In the Philippine jungle, the yo-yo was first used as a weapon. 🐾
+> 🇬🇧 **Curious fact:** It’s estimated that at any one time around 0.7% of the world’s population is drunk. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
