@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** In every episode of Seinfeld there is a Superman somewhere. 🐾
+> 🇬🇧 **Curious fact:** A rat can last longer without water than a camel. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
