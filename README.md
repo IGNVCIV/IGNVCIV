@@ -12,7 +12,7 @@ Tengo un fuerte enfoque en los detalles: creo firmemente que un proyecto no solo
 
 ### 🐱 Dato del Día
 <!-- START_SECTION:fact -->
-> 🇬🇧 **Curious fact:** Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation. 🐾
+> 🇬🇧 **Curious fact:** The average person's left hand does 56% of the typing. 🐾
 >
 > 🇪🇸 **Dato curioso:** Pronto aparecerá un nuevo dato curioso. 🐾
 >
